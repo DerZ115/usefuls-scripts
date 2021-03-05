@@ -1,0 +1,10 @@
+git init	initialize new repository in the current directory
+git clone	copy a remote repository to the current directory
+git status	show modified/added/removed files
+git diff	show difference in files between last commit and current working tree
+git add		stage files
+git reset	unstage files
+git commit	commit staged changes to the repo (-m to add a message)
+git log		show commit history
+git pull	get changes from the remote repository and merge with working tree
+git push	upload local commits to the remote repo
